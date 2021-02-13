@@ -1,0 +1,69 @@
+name: mi_card
+description: A new Flutter application.
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  get: ^3.12.1
+  url_launcher: ^5.7.2
+  path_provider: ^1.6.18
+  flutter_icons: ^1.1.0
+  flutter_spinkit: ^4.1.2+1
+  image_picker: ^0.6.7+11
+
+  firebase_auth: ^0.18.1+2
+  google_sign_in: ^4.5.5
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: DancingScript
+      fonts:
+        - asset: fonts/DancingScript-SemiBold.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+    - family: RedHat
+      fonts:
+        - asset: fonts/RedHatDisplay-Regular.ttf
+    - family: Niconne
+      fonts:
+        - asset: fonts/Niconne-Regular.ttf
+    - family: IndieFlower
+      fonts:
+        - asset: fonts/IndieFlower-Regular.ttf
+    - family: Parisienne
+      fonts:
+        - asset: fonts/Parisienne-Regular.ttf
+    - family: SwankyandMooMoo
+      fonts:
+        - asset: fonts/SwankyandMooMoo-Regular.ttf
+    - family: BerkshireSwash
+      fonts:
+        - asset: fonts/BerkshireSwash-Regular.ttf
+    - family: Sacramento
+      fonts:
+        - asset: fonts/Sacramento-Regular.ttf
+    - family: Righteous
+      fonts:
+        - asset: fonts/Righteous-Regular.ttf
+    - family: PoiretOne
+      fonts:
+        - asset: fonts/PoiretOne-Regular.ttf

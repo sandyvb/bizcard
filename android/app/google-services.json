@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943213852743",
+    "firebase_url": "https://bizcard-c6e21.firebaseio.com",
+    "project_id": "bizcard-c6e21",
+    "storage_bucket": "bizcard-c6e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943213852743:android:338d8a0e1e73e241629962",
+        "android_client_info": {
+          "package_name": "com.revoltwind.bizcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943213852743-qnhticaend2iaufutogbeo8av5qtruqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5w-bgMx7c4gL3CeugKsd651ES3zm9ir4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943213852743-qnhticaend2iaufutogbeo8av5qtruqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
